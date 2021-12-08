@@ -1,0 +1,66 @@
+html {
+    box-sizing: border-box;
+  }
+  *,*::before,*::after {
+    box-sizing: inherit;
+  }
+.log{
+    padding: 0;
+    margin:0;
+    background-image: linear-gradient(to right, #09398c , #2962c2, #4d7bc9);
+}
+.area{
+    margin:0;
+}
+.container{
+    width: 35%;
+    background: none;
+    background: white;
+    border-radius: 5px;
+    padding: 2%;
+    margin-top: 9.5%;
+}
+
+.lbTitulo{
+    color: black;
+    size: 20px;
+    font-weight: bold;
+    margin-bottom: 2%;
+    left: 2%;
+    text-align: center;
+}
+form{
+    margin-left: 9%; 
+    width: 85%;
+}
+
+#btn{
+    width: 100%;
+    margin-bottom: 2%;
+}
+
+#logout{
+    width: 6%;
+    background-color: white;
+    color:black;
+    font-weight: bold;
+    margin-top: 2%;
+}
+.wave-container > svg {
+    display: block;
+}
+.wave-container {
+    position: relative;
+    background: #09f;
+    color: #fff;
+    text-align: center;
+    overflow: hidden;
+  }
+
+.tt{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color:white;
+    margin: 7rem 1.25rem 2.5rem 1.25rem;
+}
+
