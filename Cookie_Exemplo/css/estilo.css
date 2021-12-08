@@ -1,0 +1,48 @@
+
+
+.menu{
+    width: 50%;
+    margin-left: 20%;
+    margin-top: -15%;
+}
+
+.menu h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+}
+.ctg{
+    color: #282A33;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 18px;
+}
+#btn{
+    background-color: #77B0D1;
+    border-color: #77B0D1;
+    font-weight: bold;
+    height: 35px;
+}
+#btn:hover{
+    background-color: #A9C4D1;
+}
+.tabelasRoupas{
+    margin-top: 5%;
+}
+.card{
+    float: left;
+    margin-left: 3%;
+    margin-top: 2%;
+    align-items: center;
+    border-color: #A9C4D1;
+}
+img{
+    width: 200px;
+    height: 230px;
+    
+}
+.card-title{
+    font-family: Helvetica;
+    font-size: 15px;
+    font-weight: bold;
+}
